@@ -7,8 +7,8 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
-MY_EMAIL = "ryui19980506@gmail.com"
-MY_PASSWORD = "98goroku"
+MY_EMAIL = "Your Email Address"
+MY_PASSWORD = "Your Password"
 
 chrome_driver_path = "/Users/ryui/Documents/Python/chromedriver"
 service = Service(chrome_driver_path)
